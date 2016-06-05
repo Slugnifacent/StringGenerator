@@ -1,0 +1,6 @@
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.exe
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.csprojResolveAssemblyReference.cache
